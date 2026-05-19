@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://github.com/MobinaFarooque/MobinaFarooque/blob/main/videoplayback.gif" width="250"/>
+  <img src="https://github.com/MobinaFarooque/MobinaFarooque/blob/main/videoplayback.gif" width="800"/>
 </p>
 
 <!--
