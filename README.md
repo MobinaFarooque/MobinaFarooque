@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+I am a multidisciplinary professional and microbial sciences graduate with a unique blend of technical expertise, leadership experience, and social impact drive. My journey bridges laboratory sciences, organizational management, and community action—enabling me to lead teams, drive awareness campaigns, and build tangible value in both corporate and social sectors.
+
+Currently serving as the POSH Committee Head at The Wealth Finder, I have been recognized with the Best Chairperson Award of the Month (2024) for fostering safe, compliant, and empathetic workplace environments. My commitment to professional excellence is further supported by an HRM certification from Akaro Consulting Firm, equipping me with core people-management skills.
+
+My scientific foundation was built through advanced training in Spirulina Cultivation Technology (Microbiology Society of India, 2021) and Industrially Relevant Food Safety & Microbiology (UGC-sponsored, 2020), along with certifications in Intellectual Property Rights (University of Delhi, 2018) and Industry-Academia Interaction (MagGenome, 2019). These have given me a rigorous, application-oriented mindset.
+
+Beyond academics, I have led as Technical Head & Treasurer of the Microbiologist Society, India (2020–2022)—managing budgets, graphic design, national-level quizzes, and technical operations. I have also driven fundraising campaigns for Jankalyan Multipurpose Education Society (2021) and conceptualized HPV Kavach: A campaign against cancer (2021) to drive preventive health awareness.
+
+My commitment to service is reflected in volunteering with Team Everest (old age home visit, 25-day goal setting mentorship for an underprivileged student, awareness drives), Youth Empowerment Foundation, and Rotaract Club of Rever. I have consistently upgraded myself through workshops on financial literacy, applied bioinformatics, career development, and post-COVID health & media awareness.
+
+I bring together science, leadership, compliance, and compassion—ready to contribute to roles that value integrity, innovation, and impact.
+
+
 <!--
 **MobinaFarooque/MobinaFarooque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
